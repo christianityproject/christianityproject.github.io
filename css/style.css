@@ -34,7 +34,9 @@ header a {
   padding-top: 15px;
   text-align: center;
 }
-
+button {
+  outline: none;
+}
 .showcaseHeading {
   font-size: 40px;
   padding: 10px;
@@ -55,6 +57,7 @@ header a {
 .menuButton button {
   width: 100%;
   font-weight: bold;
+
 }
 #about {
   background-color: #f2f2f2;
