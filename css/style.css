@@ -81,6 +81,7 @@ footer {
   background-position: center;
   background-repeat: no-repeat;
   color: white;
+  text-transform: uppercase;
 }
 footer a {
   padding: 0 15px 0 15px;
