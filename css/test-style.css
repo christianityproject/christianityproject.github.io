@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Oswald', Arial, sans-serif;
+}
+.heading {
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  padding: 30px 0 14px 0;
+}
+.testCards {
+  max-width: 800px;
+}
