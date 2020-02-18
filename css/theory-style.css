@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.headingText {
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  padding: 30px 0 5px 0;
+  font-family: 'Oswald', Arial, sans-serif;
+}
+.settings {
+  max-width: 200px;
+}
+.container {
+  padding: 0 5px 0 5px;
+}
+.theory {
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 18px;
+  max-width: 950px;
+}
+.heading1 {
+  font-size: 25px;
+  font-family: 'Oswald', Arial, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 15px;
+}
+.heading2 {
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.text {
+  text-align: justify;
+}
+.menuImage {
+  width: 70px;
+  margin: 0 3px 0 3px;
+}
+.settingsMenuMobile {
+  text-align: center;
+}
+.tableStripes {
+  background-color: #eeeeee;
+}
