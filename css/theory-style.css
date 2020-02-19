@@ -2,11 +2,16 @@ body {
   margin: 0;
   padding: 0;
 }
+header {
+  padding-bottom: 35px;
+  background-color: #222222;
+}
 .headingText {
   font-weight: bold;
+  color: white;
   font-size: 35px;
   text-align: center;
-  padding: 30px 0 5px 0;
+  padding: 25px 0 5px 0;
   font-family: 'Oswald', Arial, sans-serif;
 }
 .settings {
@@ -26,12 +31,23 @@ body {
   text-transform: uppercase;
   text-align: center;
   font-weight: bold;
+  padding-top: 40px;
+  margin-bottom: -15px;
+}
+.heading1st {
+  font-size: 25px;
+  font-family: 'Oswald', Arial, sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: bold;
   padding-top: 15px;
+  margin-bottom: -15px;
 }
 .heading2 {
   font-size: 20px;
   font-weight: bold;
-  padding-top: 30px;
+  padding-top: 35px;
+  padding-bottom: 5px;
 }
 .text {
   text-align: justify;
@@ -45,4 +61,10 @@ body {
 }
 .tableStripes {
   background-color: #eeeeee;
+}
+footer {
+  padding: 30px;
+  background-color: #222222;
+  text-align: center;
+  color: white;
 }
