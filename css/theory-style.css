@@ -68,3 +68,6 @@ footer {
   text-align: center;
   color: white;
 }
+.non-justify {
+  text-align: left !important;
+}
