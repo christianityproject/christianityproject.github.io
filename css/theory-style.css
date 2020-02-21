@@ -71,3 +71,6 @@ footer {
 .non-justify {
   text-align: left !important;
 }
+footer {
+  font-size: 10px;
+}
