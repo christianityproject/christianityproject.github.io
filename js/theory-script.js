@@ -20,3 +20,7 @@ function whiteTheme() {
   $("footer").css("background-color", "#222222");
   $(".headingText").css("color", "white");
 }
+function show() {
+  $(".iconAuthor").css("display", "block");
+  $(".hideSpan").css("display", "none");
+}

@@ -73,4 +73,12 @@ footer {
 }
 footer {
   font-size: 10px;
+  font-family: 'Oswald', Arial, sans-serif;
+}
+.iconAuthor {
+  display: none;
+}
+footer span {
+  cursor: pointer;
+  padding: 10px;
 }
