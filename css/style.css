@@ -1,7 +1,8 @@
 body {
   font-family: "Oswald", "Trebuchet MS Black", "Trebuchet MS", "sans-serif";
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+  max-width: 2350px;
 }
 
 header {
@@ -25,8 +26,8 @@ header a {
   text-decoration: none;
 }
 #showcase {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 110px;
+  padding-bottom: 110px;
   text-transform: uppercase;
   font-weight: bold;
   color: white;
@@ -87,7 +88,6 @@ footer a {
   padding: 0 15px 0 15px;
 }
 
-/* ШИРИНА ОКОН */
 #menu {
   max-width: 900px;
   padding-top: 30px;
