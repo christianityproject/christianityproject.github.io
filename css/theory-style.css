@@ -82,3 +82,6 @@ footer span {
   cursor: pointer;
   padding: 10px;
 }
+.settingsMenuMobile img {
+  cursor: pointer;
+}
